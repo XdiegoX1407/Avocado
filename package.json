@@ -1,4 +1,5 @@
 {
+  "homepage" : "https://XdiegoX1407.github.io/Avocado.git",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
